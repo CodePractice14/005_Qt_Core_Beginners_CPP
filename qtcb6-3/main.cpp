@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+//3. Ternary Operator
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
