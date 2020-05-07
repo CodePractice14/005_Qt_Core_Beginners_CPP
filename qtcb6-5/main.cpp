@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+//5. Do while
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
