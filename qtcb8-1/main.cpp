@@ -2,6 +2,7 @@
 
 #include "animal.h"
 
+//8-1. Intro to classes
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
