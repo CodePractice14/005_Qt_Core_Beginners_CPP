@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+//4. Switch
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
