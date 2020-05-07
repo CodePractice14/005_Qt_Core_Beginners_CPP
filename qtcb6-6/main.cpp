@@ -5,7 +5,7 @@
 
 using namespace std;
 
-
+//6. For loop
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
