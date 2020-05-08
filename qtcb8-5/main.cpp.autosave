@@ -1,0 +1,13 @@
+#include <QCoreApplication>
+#include "lion.h"
+
+//8-5. Overriding
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    lion simba;
+    simba.speak();
+
+    return a.exec();
+}
